@@ -14,9 +14,8 @@
 
 >**Learnings from the project**
 
-- Positions (Relative, Absolute, Static, Fixed)
-- Transitions
-- Pseudo Selectors (hover)
+- Started using comments in code
+- Basics of flex, flex-properties.
 
 <br>
 
