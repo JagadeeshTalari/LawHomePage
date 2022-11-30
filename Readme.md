@@ -1,12 +1,24 @@
-# Law Home Page
+# [Live Project 3](https://jagadeeshproject3.netlify.app/)
+
+<br>
+
+# [Law Home Page](https://jagadeeshproject3.netlify.app/)
+
+<br><br>
+
+[![LiveLink](https://img.shields.io/badge/Live%20Link-Click%20here-red)](https://jagadeeshproject3.netlify.app/)
 
 ![image](./assets/3.png)
+
+<br><br>
 
 >**Learnings from the project**
 
 - Positions (Relative, Absolute, Static, Fixed)
 - Transitions
 - Pseudo Selectors (hover)
+
+<br>
 
 ![project3](https://img.shields.io/badge/Project-3-orange)
 
