@@ -1,8 +1,8 @@
-# [Live Project 3](https://jagadeeshproject3.netlify.app/)
+# [Live Project 3]([https://jagadeeshproject3.netlify.app/](https://jagadeeshtalari.github.io/LawHomePage/))
 
 <br>
 
-# [Law Home Page](https://jagadeeshproject3.netlify.app/)
+# [Law Home Page]([https://jagadeeshproject3.netlify.app/](https://jagadeeshtalari.github.io/LawHomePage/))
 
 <br><br>
 
